@@ -10,7 +10,7 @@ I'm looking to expand my knowledge in `Web Development` and `Software Engineerin
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Figna](https://img.shields.io/badge/-figma-FF4785?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/-figma-FF4785?style=for-the-badge&logo=figma&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/BootStrap-%23430098.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

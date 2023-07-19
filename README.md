@@ -1,6 +1,6 @@
 # Hi! I'm Criztian
 
-I'm looking to expand my knowledge in `**Web Development**` and `**Software Engineering**`.
+I'm looking to expand my knowledge in **Web Development** and **Software Engineering**
 
 [![Criztian Rendon Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianrendondev/)
 

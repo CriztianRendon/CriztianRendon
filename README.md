@@ -1,4 +1,4 @@
-# Hi! I'm Criztian
+# Hi! I'm Criztian :flag_co:
 
 I'm looking to expand my knowledge in `Web Development` and `Software Engineering`.
 
